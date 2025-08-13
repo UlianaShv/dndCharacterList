@@ -295,6 +295,7 @@ partial class Form1
         DexValue.ForeColor = Color.Black;
         DexValue.Location = new Point(179, 517);
         DexValue.Name = "DexValue";
+        DexValue.PlaceholderText = "0";
         DexValue.Size = new Size(37, 40);
         DexValue.TabIndex = 24;
         DexValue.TextAlign = HorizontalAlignment.Center;
@@ -307,6 +308,7 @@ partial class Form1
         IntValue.ForeColor = Color.Black;
         IntValue.Location = new Point(179, 795);
         IntValue.Name = "IntValue";
+        IntValue.PlaceholderText = "0";
         IntValue.Size = new Size(37, 40);
         IntValue.TabIndex = 25;
         IntValue.TextAlign = HorizontalAlignment.Center;
@@ -319,6 +321,7 @@ partial class Form1
         ConValue.ForeColor = Color.Black;
         ConValue.Location = new Point(179, 655);
         ConValue.Name = "ConValue";
+        ConValue.PlaceholderText = "0";
         ConValue.Size = new Size(37, 40);
         ConValue.TabIndex = 26;
         ConValue.TextAlign = HorizontalAlignment.Center;
@@ -331,6 +334,7 @@ partial class Form1
         StrValue.ForeColor = Color.Black;
         StrValue.Location = new Point(179, 377);
         StrValue.Name = "StrValue";
+        StrValue.PlaceholderText = "0";
         StrValue.Size = new Size(37, 40);
         StrValue.TabIndex = 27;
         StrValue.TextAlign = HorizontalAlignment.Center;
@@ -343,6 +347,7 @@ partial class Form1
         ChaValue.ForeColor = Color.Black;
         ChaValue.Location = new Point(179, 1073);
         ChaValue.Name = "ChaValue";
+        ChaValue.PlaceholderText = "0";
         ChaValue.Size = new Size(37, 40);
         ChaValue.TabIndex = 28;
         ChaValue.TextAlign = HorizontalAlignment.Center;
@@ -355,6 +360,7 @@ partial class Form1
         WisValue.ForeColor = Color.Black;
         WisValue.Location = new Point(179, 935);
         WisValue.Name = "WisValue";
+        WisValue.PlaceholderText = "0";
         WisValue.Size = new Size(37, 40);
         WisValue.TabIndex = 29;
         WisValue.TextAlign = HorizontalAlignment.Center;
